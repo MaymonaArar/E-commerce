@@ -7,8 +7,7 @@ This Laravel E-commerce project is a comprehensive online retail platform, desig
 ## Key Features
 
 - User Registration and Login
-- Product Browsing and Search Functionality
-- Shopping Cart and Checkout Process
+- Product Browsing 
 - Order Management
 - Admin Panel for Product and User Management
 - Responsive Design Desktop Users
